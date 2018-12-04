@@ -1,7 +1,7 @@
 {
   "main.css": "/sola/static/css/main.acc3aee3.chunk.css",
-  "main.js": "/sola/static/js/main.762bfced.chunk.js",
-  "main.js.map": "/sola/static/js/main.762bfced.chunk.js.map",
+  "main.js": "/sola/static/js/main.aa106b10.chunk.js",
+  "main.js.map": "/sola/static/js/main.aa106b10.chunk.js.map",
   "static/js/1.3ad5f8a6.chunk.js": "/sola/static/js/1.3ad5f8a6.chunk.js",
   "static/js/1.3ad5f8a6.chunk.js.map": "/sola/static/js/1.3ad5f8a6.chunk.js.map",
   "runtime~main.js": "/sola/static/js/runtime~main.242bd58c.js",
@@ -9,6 +9,6 @@
   "static/media/sola.gif": "/sola/static/media/sola.d5ff1098.gif",
   "static/css/main.acc3aee3.chunk.css.map": "/sola/static/css/main.acc3aee3.chunk.css.map",
   "index.html": "/sola/index.html",
-  "precache-manifest.ef4f3e818c5e04aec79240f50516f243.js": "/sola/precache-manifest.ef4f3e818c5e04aec79240f50516f243.js",
+  "precache-manifest.26db1aa7b24d3583c1565c491a6750b3.js": "/sola/precache-manifest.26db1aa7b24d3583c1565c491a6750b3.js",
   "service-worker.js": "/sola/service-worker.js"
 }
