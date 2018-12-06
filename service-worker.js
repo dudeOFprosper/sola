@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/sola/precache-manifest.5ac9fe12cb23b00f68aa0cc1f22aad0a.js"
+  "www.virtualathletes.games/precache-manifest.cd59f9f823fda45dc910e6fbc57d5790.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sola/index.html", {
+workbox.routing.registerNavigationRoute("www.virtualathletes.games/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
