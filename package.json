@@ -2,7 +2,7 @@
   "name": "sola",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dudeOFpropser.github.io/sola",
+  "homepage": "https://dudeOFpropser.github.io",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
