@@ -2,9 +2,23 @@
   text-align: center;
 }
 
-.App-logo {
+img {
   animation: App-logo-spin infinite 20s linear;
   height: 100vh;
+}
+
+@media screen and (max-width: 1450px) { 
+  .hide-on-medium {
+    display: none;
+  }
+  img {
+    height: auto;
+  }
+}
+@media screen and (max-width: 768px) {
+    .hide-on-mobile {
+        display: none;
+    }
 }
 
 .App-header {
