@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/sola/static/js/runtime~main.242bd58c.js"
   },
   {
-    "revision": "aa106b100af177c0bd64",
-    "url": "/sola/static/js/main.aa106b10.chunk.js"
+    "revision": "38f4e5855c068cf86d4e",
+    "url": "/sola/static/js/main.38f4e585.chunk.js"
   },
   {
     "revision": "3ad5f8a614c5e526e94e",
     "url": "/sola/static/js/1.3ad5f8a6.chunk.js"
   },
   {
-    "revision": "aa106b100af177c0bd64",
-    "url": "/sola/static/css/main.acc3aee3.chunk.css"
+    "revision": "38f4e5855c068cf86d4e",
+    "url": "/sola/static/css/main.e9f61a9b.chunk.css"
   },
   {
-    "revision": "709505a5a18c0d1a644c45a09d8e8182",
+    "revision": "1f05b14d1b34316222c73dba0facb479",
     "url": "/sola/index.html"
   }
 ];
